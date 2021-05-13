@@ -1,3 +1,3 @@
 # RS4E
 
-📲 mobile / desktop toy App
+📲 mobile toy App
